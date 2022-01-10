@@ -1,2 +1,1 @@
-# DataStruct-II
-Algorithm Class Codes and Data Structure II
+Data Structure Algorithms (B-tree and etc.)
